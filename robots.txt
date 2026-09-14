@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://manikkakarthik.vercel.app/sitemap.xml
